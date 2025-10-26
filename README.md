@@ -14,7 +14,7 @@
 </div>
 
 > [!IMPORTANT]
-> This config is now old. My new rice (and code refactor!) is now [here](https://github.com/catdeal3r/chromex).
+> This config is now old and is archived. My new rice (and code refactor!) is now [here](https://github.com/catdeal3r/chromex).
 
 ## Table of Contents
 - [Showcase](#showcase)
